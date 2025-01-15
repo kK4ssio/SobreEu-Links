@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     display: grid;
-    background-color: rgb(127, 161, 195);
+    background-color: rgb(233, 246, 248);
     font-family:  "Open Sans", sans-serif;
 }
 
@@ -13,7 +13,16 @@ body {
 
 .minha-foto {
     text-align: center;
-    background-color: rgb(100, 130, 173);
+    background-color: rgb(49, 198, 212);
+}
+
+.o{
+    background-color: rgb(9, 120, 153);
+    padding: 0.3px;
+}
+nav{
+    background-color: rgb(46, 221, 236);
+    padding: 8px;
 }
 
 .minha-foto img {
@@ -39,11 +48,9 @@ body {
 
 footer {
     text-align: center;
-    background-color: rgb(100, 130, 173);
+    background-color: rgb(49, 198, 212);
     bottom: 0;
-   
-    width: 100%;
+    padding: 15px;
+    
 }
-hr{
-    opacity: 0%;
-}
+
